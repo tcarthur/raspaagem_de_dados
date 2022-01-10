@@ -1,1 +1,3 @@
-# raspaagem_de_dados
+# raspagem_de_dados
+
+Programa em desenvolvimento
